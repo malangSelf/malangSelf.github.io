@@ -13,7 +13,7 @@
 
 
 
-> ###### 使用时注意容量和材料的合理配比，可能的爆炸情况属于合理范围
+> ###### 使用时注意容量和材料的合理配比，可能的爆炸属于合理范围
 >
 > ```apl
 > https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=b99203e2566744b89673370be25e6743
