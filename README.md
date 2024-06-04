@@ -1,6 +1,8 @@
-<img src="D:\CodeFile\malangSelf.github.io\images\0d3d457941d82540357d65ecca54c785538ab4df.jpg" style="zoom: 25%;" />
+
 
 这里是 **Malang** 的个人网站 ,在这里会更新一些内容,希望有您需要的🥸
+
+<img src="images/0d3d457941d82540357d65ecca54c785538ab4df.jpg" style="zoom:33%;" />
 
 <hr>
 
