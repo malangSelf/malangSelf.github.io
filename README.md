@@ -2,11 +2,7 @@
 
 这里是 **Malang** 的个人网站 ,在这里会更新一些内容,希望有您需要的🥸
 
-```html
-<video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="images/sakana.gif" type="video/mp4">
-</videos>
-```
+<img src="images/sakana.gif" style="zoom: 50%;" />
 
 <hr>
 
