@@ -4,7 +4,7 @@
 
 ```html
 <video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="images/sakana.mp4" type="video/mp4">
+      <source id="mp4" src="images/sakana.gif" type="video/mp4">
 </videos>
 ```
 
