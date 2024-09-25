@@ -1,4 +1,3 @@
----
+# We are alive, we are powerless
 
-> # We are alive, we are powerless
 > - [meno]()
